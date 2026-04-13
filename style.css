@@ -1,0 +1,42 @@
+.space-mono-regular {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+  } .space-mono-bold {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+  } .space-mono-regular-italic {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: italic;
+  } .space-mono-bold-italic {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: italic;
+  } body {
+    background-color: grey;
+    font-family: Space Mono;
+  } head {
+    font-family: Space Mono;
+    
+  } h1 {
+    text-align: center;
+
+  } h2{
+    text-align: center;
+
+  } .img1 {
+    border-color: black;
+    border-width: 1px;  
+
+  } .combine {
+    display: inline;
+    display: flex;
+    align-items: center;
+    
+    
+  } p {  
+margin: 3%;
+  }
+  
