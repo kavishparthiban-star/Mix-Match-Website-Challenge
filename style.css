@@ -22,21 +22,40 @@
     
   } h1 {
     text-align: center;
-
+    background-color: yellowgreen;
+    padding: 2%;
+    margin-bottom: -3%;
   } h2{
     text-align: center;
-
-  } .img1 {
-    border-color: black;
-    border-width: 1px;  
+    background-color: chocolate;
+    padding: 1%;
 
   } .combine {
     display: inline;
     display: flex;
     align-items: center;
-    
-    
   } p {  
-margin: 3%;
+    margin: 3%;
+    background-color: palevioletred;
+    padding: 2%;
+  } .combine2 {
+    display: inline;
+    display: flex;
+    align-items: center;
+  } p2 {
+    margin: 3%;
+    background-color: lightskyblue;
+    padding: 2%;
+  } p3 {
+    color: white;
+    background-color: purple;
+  } .gif {
+    display: inline;
+    display: flex;
+    align-items: center;
+    
+  } p4 {
+    color: white;
+    background-color: purple;
   }
   
